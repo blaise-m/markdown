@@ -57,6 +57,9 @@ For further information, visit
 [www.falxtechnologies.com](www.falxtechnologies.com "Falx Technologies")
 
 ___
+<!-- Add a blank line -->
+&nbsp;
+
 <!-- Unordered Lists: Use a single asterisk -->
 This is a list of the pending tasks:
 
@@ -81,6 +84,9 @@ ___
 `<p>This is an html paragraph tag!</p>`
 
 `<img>Below is the FALX Tech logo!</img>`
+
+<!-- Add a blank line -->
+&nbsp;
 
 <!-- Images are same as links but with an exclamation mark -->
 ![FALX Tech logo](/favicon.ico)
@@ -107,6 +113,8 @@ const add = (num1, num2) => {
   return num1*num2
 }
 ```
+<!-- Add a blank line -->
+&nbsp;
 
 These are the brilliant minds behing FALX Tech:
 <!-- Tables: Use pipes and hyphens -->
