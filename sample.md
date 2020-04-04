@@ -108,6 +108,7 @@ const add = (num1, num2) => {
 }
 ```
 
+These are the brilliant minds behing FALX Tech:
 <!-- Tables: Use pipes and hyphens -->
 | Name             | Email                     |
 | ---------------- | ------------------------- |
@@ -116,7 +117,7 @@ const add = (num1, num2) => {
 
 <!-- Task lists: [x] for complete, [ ] for pending in a ul -->
 
-Taks List
+Progress monitor
 * [x] Task 1
 * [x] Taks 2
 * [ ] Task 3
