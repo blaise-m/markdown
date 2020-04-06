@@ -47,6 +47,8 @@ The site doesn't currently provide external api's. Contact us if need for one ar
 
 ## Licenses
 
+[Click to view the license](https://github.com/blaise-m/markdown/blob/master/LICENSE)
+
 ## Author Info
 - [LinkedIn](https://www.linkedin.com/in/blaise-mubangizi-1219b976/)
 - [Facebook](https://www.facebook.com/mubangizi.blaise)
