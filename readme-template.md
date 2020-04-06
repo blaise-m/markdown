@@ -45,11 +45,11 @@ The site doesn't currently provide external api's. Contact us if need for one ar
 [Privacy Agreement]()
 
 
-## License
+## Licenses
 
 ## Author Info
 - LinkedIn: https://www.linkedin.com/in/blaise-mubangizi-1219b976/
 - Facebook: https://www.facebook.com/mubangizi.blaise
 - Github: https://github.com/blaise-m
 
-[Back to the Top](#project-name)
+[Back to the Top](#falx-technologies)
